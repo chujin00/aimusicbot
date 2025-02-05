@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "homepage": "https://chujin00.github.io/aimusicbot/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
